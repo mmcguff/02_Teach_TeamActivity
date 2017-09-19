@@ -1,3 +1,18 @@
 body{
-    background-color: green;
+    background-color: grey;
+}
+
+.one {
+    background-color: red;
+}
+
+.two {
+    font-size: 15 px;
+    background-color: yellow; 
+
+}
+
+.three{
+    font-size: 20 px;
+    background-color: blue;    
 }

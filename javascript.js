@@ -1,1 +1,6 @@
-alert("Working!");
+function getAlert(){
+
+    alert("Clicked!");
+
+}
+
