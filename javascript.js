@@ -4,3 +4,10 @@ function getAlert(){
 
 }
 
+function changeColor(){
+    var c = document.getElementById("color").value;
+    alert(c);
+   
+
+}
+
